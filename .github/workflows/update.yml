@@ -45,3 +45,7 @@ jobs:
             git commit -m "chore: update feed $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
+
+      - name: Purge jsDelivr cache
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/feed.ics" || true

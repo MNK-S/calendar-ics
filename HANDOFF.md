@@ -155,7 +155,7 @@ targets.json（订阅名单）
 | Actions 失败 | `contents: write` 没开；或网络问题 |
 | 订阅 404 | 仓库不是 public；首次 workflow 没跑完 |
 | 重复事件 | 旧的 Eventernote 订阅没删；或有人改了 `UID` |
-| 更新不出现 | jsDelivr 缓存（~12h）；ICSx⁵ 同步间隔 |
+| 更新不出现 | ICSx⁵ 同步间隔；workflow 每次更新后会自动清 jsDelivr 缓存 |
 | 时间差 1 小时 | 手机时区不是北京（日本/中国无夏令时） |
 | 海外时间错 | 时区表没命中，描述里会有“时区未识别” |
 | `gh.py` 401/403 | token 过期、权限不足、repo 名写错 |

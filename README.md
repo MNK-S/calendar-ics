@@ -100,7 +100,7 @@ https://www.eventernote.com/actors/示例艺人/12345
 
 | 方式 | 地址 | 说明 |
 |---|---|---|
-| jsDelivr | `https://cdn.jsdelivr.net/gh/<用户名>/<仓库>@main/feed.ics` | 国内一般可访问，有约 12 小时缓存 |
+| jsDelivr | `https://cdn.jsdelivr.net/gh/<用户名>/<仓库>@main/feed.ics` | 国内一般可访问，每次更新后会自动清缓存 |
 | GitHub Pages | `https://<用户名>.github.io/<仓库>/feed.ics` | 更新更快，需要开启 Pages，国内访问不一定稳 |
 
 ## 订阅
@@ -155,7 +155,7 @@ python make_sample.py                   # 生成 sample.ics 预览格式
 | Actions 失败 | 看运行日志；确认 Workflow permissions 是 Read and write |
 | 订阅 404 | 仓库是否 public；第一次 workflow 是否跑完 |
 | 同一活动出现两次 | 是否还留着 Eventernote 自带的订阅 |
-| 更新没出现 | jsDelivr 缓存（约 12 小时），或客户端同步间隔 |
+| 更新没出现 | 客户端同步间隔；先在 ICSx⁵ 里强制同步一次 |
 | 时间差 1 小时 | 手机时区设置；日本和中国都没有夏令时 |
 | 海外时间不对 | 描述里是否有“时区未识别”，有就补 `timezones.json` |
 | 某个艺人 0 场 | 检查 `targets.json` 里的 ID 是否正确 |
