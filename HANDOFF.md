@@ -29,10 +29,10 @@
 ```bash
 python tools/gh.py status                 # 仓库、分支、targets 数量、最近一次运行
 python tools/gh.py list                   # 当前订阅名单
-python tools/gh.py search 渡瀬結月        # 查 ID（只返回真正的搜索结果）
-python tools/gh.py add 渡瀬結月 55045     # 追加 + 提交 + 触发 workflow
-python tools/gh.py add-url https://www.eventernote.com/actors/川村玲奈/77840
-python tools/gh.py remove 55045           # 删除 + 提交 + 触发
+python tools/gh.py search 示例艺人        # 查 ID（只返回真正的搜索结果）
+python tools/gh.py add 示例艺人 12345     # 追加 + 提交 + 触发 workflow
+python tools/gh.py add-url https://www.eventernote.com/actors/示例艺人/12345
+python tools/gh.py remove 12345           # 删除 + 提交 + 触发
 python tools/gh.py dispatch               # 只触发生成
 python tools/gh.py deploy .               # 首次部署整个目录
 python tools/gh.py set-permissions        # 尝试把 Actions 权限设为 write
@@ -88,9 +88,9 @@ targets.json（订阅名单）
 格式：`"団体名": [["声优名", "角色名"], ["只有声优"]]`
 
 ```json
-"Ave Mujica": [
-  ["佐々木李子", "三角初華"],
-  ["渡瀬結月", "若葉睦"]
+"示例团体": [
+  ["声优A", "角色A"],
+  ["声优B", "角色B"]
 ]
 ```
 
