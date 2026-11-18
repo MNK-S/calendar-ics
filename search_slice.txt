@@ -1,0 +1,49 @@
+" placeholder="声優・アーティスト名等" value="渡瀬結月">
+            <input type="submit" value="声優・アーティストを検索" class="btn btn-primary">
+          </div>
+        </div>
+      </form>
+    </div>
+
+      <p class="t2">2件の声優・アーティストが見つかりました。</p>
+      <div class="pagination pagination-centered">
+<ul>
+<li class=disabled><span>&lt;</span></li>
+<li class=active><span>1</span></li>
+<li class=disabled><span>&gt;</span></li></ul>
+</div>
+
+
+      <ul class="gb_actors_list unstyled">
+          <li><a href="/actors/%E6%B8%A1%E7%80%AC%E7%B5%90%E6%9C%88/55045">渡瀬結月</a> <span class="kana">わたせゆづき</span> <span class="number">(193)</span></li>
+          <li><a href="/actors/Ave%20Mujica/70564">Ave Mujica</a> <span class="kana">あゔぇむじか</span> <span class="number">(888)</span></li>
+      </ul>
+      <div class="pagination pagination-centered">
+<ul>
+<li class=disabled><span>&lt;</span></li>
+<li class=active><span>1</span></li>
+<li class=disabled><span>&gt;</span></li></ul>
+</div>
+
+  </div>
+  <div class="span4 page">
+    <div class="gb_ad_lrec">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- eventernote_pc_side2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-2176175807491125"
+     data-ad-slot="2890047035"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+
+    <p class="ma10 center"><a class="btn btn-primary" href="/actors/add">新しく声優を登録</a></p>
+    <p>まだ登録されていない声優を自分で登録することができます。</p>
+    <div class="gb_ad_lrec">
+  <a href="/users/ical"><img src="/images/banners/side_calendar.png" width="350" height="140" alt="イベンターノートとあなたのカレンダーを今すぐ連携"></a>
+</div>
+<div class="gb_ad_l

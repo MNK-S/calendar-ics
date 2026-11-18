@@ -1,0 +1,58 @@
+{
+  "venues": {
+    "2652": "America/Los_Angeles"
+  },
+  "cities": {
+    "Los Angeles": "America/Los_Angeles",
+    "New York": "America/New_York",
+    "Chicago": "America/Chicago",
+    "Seoul": "Asia/Seoul",
+    "Busan": "Asia/Seoul",
+    "Taipei": "Asia/Taipei",
+    "台北": "Asia/Taipei",
+    "Hong Kong": "Asia/Hong_Kong",
+    "香港": "Asia/Hong_Kong",
+    "Singapore": "Asia/Singapore",
+    "Bangkok": "Asia/Bangkok",
+    "Manila": "Asia/Manila",
+    "Kuala Lumpur": "Asia/Kuala_Lumpur",
+    "Jakarta": "Asia/Jakarta",
+    "London": "Europe/London",
+    "Paris": "Europe/Paris",
+    "Berlin": "Europe/Berlin",
+    "Sydney": "Australia/Sydney",
+    "Melbourne": "Australia/Melbourne"
+  },
+  "us_states": {
+    "CA": "America/Los_Angeles",
+    "WA": "America/Los_Angeles",
+    "OR": "America/Los_Angeles",
+    "NV": "America/Los_Angeles",
+    "NY": "America/New_York",
+    "NJ": "America/New_York",
+    "MA": "America/New_York",
+    "PA": "America/New_York",
+    "IL": "America/Chicago",
+    "TX": "America/Chicago",
+    "CO": "America/Denver",
+    "AZ": "America/Phoenix",
+    "HI": "Pacific/Honolulu"
+  },
+  "countries": {
+    "Republic of Korea": "Asia/Seoul",
+    "South Korea": "Asia/Seoul",
+    "Korea": "Asia/Seoul",
+    "Taiwan": "Asia/Taipei",
+    "Hong Kong": "Asia/Hong_Kong",
+    "Singapore": "Asia/Singapore",
+    "China": "Asia/Shanghai",
+    "Thailand": "Asia/Bangkok",
+    "Philippines": "Asia/Manila",
+    "Malaysia": "Asia/Kuala_Lumpur",
+    "Indonesia": "Asia/Jakarta",
+    "United Kingdom": "Europe/London",
+    "France": "Europe/Paris",
+    "Germany": "Europe/Berlin",
+    "Australia": "Australia/Sydney"
+  }
+}
