@@ -17,8 +17,28 @@ TZNAME:JST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:eventernote-490636@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20261121T120000
+DTEND;TZID=Asia/Tokyo:20261121T220000
+SUMMARY:WONDERLIVET 2026 DAY2
+LOCATION:KINTEX
+URL:https://www.eventernote.com/events/490636
+DESCRIPTION:开场 J11:00（B10:00）\n开演 J12:00（B11:00）\n终演 J2
+ 2:00（B21:00）\n时区未识别（按 JST 写入）\n出演：\n・MyGO!
+ !!!!（羊宮妃那、立石凛、青木陽菜、小日向美香、林鼓
+ 子）\n・Roselia（相羽あいな、工藤晴香、中島由貴、櫻
+ 川めぐ、志崎樺音）\n・[Alexandros]、CHiCO with HoneyWorks、フ
+ レデリック、indigo la End、きゃりーぱみゅぱみゅ、Midnigh
+ t Grand Orchestra、星街すいせい、Taku Inoue(井上拓)、サンボ
+ マスター、Tani Yuuki、yama\n\n\nhttps://www.eventernote.com/events/4
+ 90636
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:eventernote-495955@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20261121T193000
 DTEND;TZID=Asia/Tokyo:20261121T213000
 SUMMARY:第13回 新千歳空港国際アニメーション映画祭 映画
@@ -26,14 +46,14 @@ SUMMARY:第13回 新千歳空港国際アニメーション映画祭 映画
 LOCATION:新千歳空港シアター
 URL:https://www.eventernote.com/events/495955
 DESCRIPTION:开演 J19:30（B18:30）\n终演 J21:30（B20:30）\n出演：
- \n・Ave Mujica（渡瀬結月、高尾奏音）\n\n\nhttps://airport-anif
- es.jp/programs/ev-bang-dream/\n\nhttps://www.eventernote.com/events/495955
+ \n・Ave Mujica（渡瀬結月、高尾奏音）\n\n\nhttps://www.eventern
+ ote.com/events/495955
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-492482@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20261122T140000
 DTEND;TZID=Asia/Tokyo:20261122T160000
 SUMMARY:天音ゆかりのあまねくハーモニー♪ Birthday party 昼
@@ -41,14 +61,44 @@ SUMMARY:天音ゆかりのあまねくハーモニー♪ Birthday party 昼
 LOCATION:R'sアートコート(労音大久保会館)
 URL:https://www.eventernote.com/events/492482
 DESCRIPTION:开演 J14:00（B13:00）\n终演 J16:00（B15:00）\n出演：
- \n・天音ゆかり、川村玲奈\n\n\nhttps://koelink.co.jp/koelink/eve
- nt/amaneku_harmony/1\n\nhttps://www.eventernote.com/events/492482
+ \n・天音ゆかり、川村玲奈\n\n\nhttps://www.eventernote.com/event
+ s/492482
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-499002@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20261127T150000
+DTEND;TZID=Asia/Tokyo:20261127T170000
+SUMMARY:リンクス×六本木C*LAPSシリーズトライアル企画 Pian
+ o Bar C*LAPS Vol.3〈昼公演〉
+LOCATION:ROPPONGI C*LAPS
+URL:https://www.eventernote.com/events/499002
+DESCRIPTION:开场 J14:00（B13:00）\n开演 J15:00（B14:00）\n终演 J1
+ 7:00（B16:00）\n出演：\n・岡本悠紀、林鼓子、矢島美音、
+ 岸祐二、松本俊行\n\n\nhttps://www.eventernote.com/events/499002
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-499003@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20261127T193000
+DTEND;TZID=Asia/Tokyo:20261127T213000
+SUMMARY:リンクス×六本木C*LAPSシリーズトライアル企画 Pian
+ o Bar C*LAPS Vol.3〈夜公演〉
+LOCATION:ROPPONGI C*LAPS
+URL:https://www.eventernote.com/events/499003
+DESCRIPTION:开场 J18:30（B17:30）\n开演 J19:30（B18:30）\n终演 J2
+ 1:30（B20:30）\n出演：\n・岡本悠紀、林鼓子、矢島美音、
+ 中谷優心、松本俊行\n\n\nhttps://www.eventernote.com/events/499003
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-485534@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20261129T140000
 DTEND;TZID=Asia/Tokyo:20261129T153000
 SUMMARY:『湊みやの一枚いいですか？』〜1st Location 福岡編
@@ -56,15 +106,14 @@ SUMMARY:『湊みやの一枚いいですか？』〜1st Location 福岡編
 LOCATION:雷5656会館ときわホール
 URL:https://www.eventernote.com/events/485534
 DESCRIPTION:开场 J13:15（B12:15）\n开演 J14:00（B13:00）\n终演 J1
- 5:30（B14:30）\n出演：\n・湊みや、川村玲奈\n\n\nhttps://ch.n
- icovideo.jp/voicegarage/blomaga/ar2234739\n\nhttps://www.eventernote.com/e
- vents/485534
+ 5:30（B14:30）\n出演：\n・湊みや、川村玲奈\n\n\nhttps://www.
+ eventernote.com/events/485534
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-485535@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20261129T173000
 DTEND;TZID=Asia/Tokyo:20261129T190000
 SUMMARY:『湊みやの一枚いいですか？』〜1st Location 福岡編
@@ -72,15 +121,14 @@ SUMMARY:『湊みやの一枚いいですか？』〜1st Location 福岡編
 LOCATION:雷5656会館ときわホール
 URL:https://www.eventernote.com/events/485535
 DESCRIPTION:开场 J16:45（B15:45）\n开演 J17:30（B16:30）\n终演 J1
- 9:00（B18:00）\n出演：\n・湊みや、川村玲奈\n\n\nhttps://ch.n
- icovideo.jp/voicegarage/blomaga/ar2234739\n\nhttps://www.eventernote.com/e
- vents/485535
+ 9:00（B18:00）\n出演：\n・湊みや、川村玲奈\n\n\nhttps://www.
+ eventernote.com/events/485535
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-485637@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20261201T190000
 DTEND;TZID=Asia/Tokyo:20261201T210000
 SUMMARY:EVANESCENCE 2026 JAPAN 東京公演 12/1
@@ -89,14 +137,13 @@ URL:https://www.eventernote.com/events/485637
 DESCRIPTION:开场 J18:00（B17:00）\n开演 J19:00（B18:00）\n终演 J2
  1:00（B20:00）\n出演：\n・Ave Mujica（佐々木李子、渡瀬結
  月、岡田夢以、米澤茜、高尾奏音）\n・Evanescence\n\n\nhttp
- s://www.creativeman.co.jp/artist/2026/12evanescence/\n\nhttps://www.evente
- rnote.com/events/485637
+ s://www.eventernote.com/events/485637
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-485638@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20261202T190000
 DTEND;TZID=Asia/Tokyo:20261202T210000
 SUMMARY:EVANESCENCE 2026 JAPAN 東京公演 12/2
@@ -105,14 +152,13 @@ URL:https://www.eventernote.com/events/485638
 DESCRIPTION:开场 J18:00（B17:00）\n开演 J19:00（B18:00）\n终演 J2
  1:00（B20:00）\n出演：\n・Ave Mujica（佐々木李子、渡瀬結
  月、岡田夢以、米澤茜、高尾奏音）\n・Evanescence\n\n\nhttp
- s://www.creativeman.co.jp/artist/2026/12evanescence/\n\nhttps://www.evente
- rnote.com/events/485638
+ s://www.eventernote.com/events/485638
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-485639@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20261204T190000
 DTEND;TZID=Asia/Tokyo:20261204T210000
 SUMMARY:EVANESCENCE 2026 JAPAN 大阪公演
@@ -121,42 +167,39 @@ URL:https://www.eventernote.com/events/485639
 DESCRIPTION:开场 J18:00（B17:00）\n开演 J19:00（B18:00）\n终演 J2
  1:00（B20:00）\n出演：\n・Ave Mujica（佐々木李子、渡瀬結
  月、岡田夢以、米澤茜、高尾奏音）\n・Evanescence\n\n\nhttp
- s://www.creativeman.co.jp/artist/2026/12evanescence/\n\nhttps://www.evente
- rnote.com/events/485639
+ s://www.eventernote.com/events/485639
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-499289@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20261206T130000
 DTEND;TZID=Asia/Tokyo:20261206T135000
 SUMMARY:星空朗読会 ゲスト：川村 玲奈 様(13時の回)
 LOCATION:あすたむらんど徳島
 URL:https://www.eventernote.com/events/499289
 DESCRIPTION:开演 J13:00（B12:00）\n终演 J13:50（B12:50）\n出演：
- \n・川村玲奈\n\n\nhttps://asutamuland.jp/events/event/16134/\n\nhttps
- ://www.eventernote.com/events/499289
+ \n・川村玲奈\n\n\nhttps://www.eventernote.com/events/499289
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-499290@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20261206T154000
 DTEND;TZID=Asia/Tokyo:20261206T163000
 SUMMARY:星空朗読会 ゲスト：川村 玲奈 様(15時40分の回)
 LOCATION:あすたむらんど徳島
 URL:https://www.eventernote.com/events/499290
 DESCRIPTION:开演 J15:40（B14:40）\n终演 J16:30（B15:30）\n出演：
- \n・川村玲奈\n\n\nhttps://asutamuland.jp/events/event/15413/\n\nhttps
- ://www.eventernote.com/events/499290
+ \n・川村玲奈\n\n\nhttps://www.eventernote.com/events/499290
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-489222@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20261213T124500
 DTEND;TZID=Asia/Tokyo:20261213T141500
 SUMMARY:SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼
@@ -164,15 +207,14 @@ SUMMARY:SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼
 LOCATION:MIRAIEリアン コミュニティホール七間町
 URL:https://www.eventernote.com/events/489222
 DESCRIPTION:开场 J12:00（B11:00）\n开演 J12:45（B11:45）\n终演 J1
- 4:15（B13:15）\n出演：\n・川村玲奈、浅見香月\n\n\nhttps://x
- .com/2ndl_info/status/2088901448172286348\n\nhttps://2ndl.tstar.jp/\n\nhtt
- ps://www.eventernote.com/events/489222
+ 4:15（B13:15）\n出演：\n・川村玲奈、浅見香月\n\n\nhttps://w
+ ww.eventernote.com/events/489222
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-489223@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20261213T161500
 DTEND;TZID=Asia/Tokyo:20261213T174500
 SUMMARY:SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜
@@ -180,15 +222,82 @@ SUMMARY:SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜
 LOCATION:MIRAIEリアン コミュニティホール七間町
 URL:https://www.eventernote.com/events/489223
 DESCRIPTION:开场 J15:30（B14:30）\n开演 J16:15（B15:15）\n终演 J1
- 7:45（B16:45）\n出演：\n・川村玲奈、浅見香月\n\n\nhttps://x
- .com/2ndl_info/status/2088901448172286348\n\nhttps://2ndl.tstar.jp/\n\nhtt
- ps://www.eventernote.com/events/489223
+ 7:45（B16:45）\n出演：\n・川村玲奈、浅見香月\n\n\nhttps://w
+ ww.eventernote.com/events/489223
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-488273@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20261216T190000
+DTEND;TZID=Asia/Tokyo:20261216T210000
+SUMMARY:演劇集団 Z-Lion 2026年度公演 きっといい Koto ある ra
+ vel 12月16日
+LOCATION:新宿シアターサンモール
+URL:https://www.eventernote.com/events/488273
+DESCRIPTION:开演 J19:00（B18:00）\n终演 J21:00（B20:00）\n出演：
+ \n・松井健太、紡木吏佐、塚本凌生、小山百代、林鼓子
+ 、永山たかし、皆口裕子、木村優良、真辺幸星、葉山
+ 昴、金児憲史、宮本大誠\n\n\nhttps://www.eventernote.com/events/
+ 488273
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-488275@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20261217T140000
+DTEND;TZID=Asia/Tokyo:20261217T160000
+SUMMARY:演劇集団 Z-Lion 2026年度公演 きっといい Koto ある ra
+ vel 12月17日 14:00
+LOCATION:新宿シアターサンモール
+URL:https://www.eventernote.com/events/488275
+DESCRIPTION:开演 J14:00（B13:00）\n终演 J16:00（B15:00）\n出演：
+ \n・松井健太、紡木吏佐、塚本凌生、小山百代、林鼓子
+ 、永山たかし、皆口裕子、木村優良、真辺幸星、葉山
+ 昴、金児憲史、宮本大誠\n\n\nhttps://www.eventernote.com/events/
+ 488275
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-488274@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20261217T190000
+DTEND;TZID=Asia/Tokyo:20261217T210000
+SUMMARY:演劇集団 Z-Lion 2026年度公演 きっといい Koto ある ra
+ vel 12月17日 19:00
+LOCATION:新宿シアターサンモール
+URL:https://www.eventernote.com/events/488274
+DESCRIPTION:开演 J19:00（B18:00）\n终演 J21:00（B20:00）\n出演：
+ \n・松井健太、紡木吏佐、塚本凌生、小山百代、林鼓子
+ 、永山たかし、皆口裕子、木村優良、真辺幸星、葉山
+ 昴、金児憲史、宮本大誠\n\n\nhttps://www.eventernote.com/events/
+ 488274
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-488276@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20261218T190000
+DTEND;TZID=Asia/Tokyo:20261218T210000
+SUMMARY:演劇集団 Z-Lion 2026年度公演 きっといい Koto ある ra
+ vel 12月18日
+LOCATION:新宿シアターサンモール
+URL:https://www.eventernote.com/events/488276
+DESCRIPTION:开演 J19:00（B18:00）\n终演 J21:00（B20:00）\n出演：
+ \n・松井健太、紡木吏佐、塚本凌生、小山百代、林鼓子
+ 、永山たかし、皆口裕子、木村優良、真辺幸星、葉山
+ 昴、金児憲史、宮本大誠\n\n\nhttps://www.eventernote.com/events/
+ 488276
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-497686@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20261219T130000
 DTEND;TZID=Asia/Tokyo:20261219T143000
 SUMMARY:『声グラクリスマス2026』昼の部
@@ -196,14 +305,109 @@ LOCATION:科学技術館サイエンスホール
 URL:https://www.eventernote.com/events/497686
 DESCRIPTION:开场 J12:00（B11:00）\n开演 J13:00（B12:00）\n终演 J1
  4:30（B13:30）\n出演：\n・薄井友里、花岩香奈、渡瀬結月
- \n\n\nhttps://seigura.com/news/177455/\n\nhttps://seigura.com/news/176938/
- \n\nhttps://www.eventernote.com/events/497686
+ \n\n\nhttps://www.eventernote.com/events/497686
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-488277@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20261219T130000
+DTEND;TZID=Asia/Tokyo:20261219T150000
+SUMMARY:演劇集団 Z-Lion 2026年度公演 きっといい Koto ある ra
+ vel 12月19日 13:00
+LOCATION:新宿シアターサンモール
+URL:https://www.eventernote.com/events/488277
+DESCRIPTION:开演 J13:00（B12:00）\n终演 J15:00（B14:00）\n出演：
+ \n・松井健太、紡木吏佐、塚本凌生、小山百代、林鼓子
+ 、永山たかし、皆口裕子、木村優良、真辺幸星、葉山
+ 昴、金児憲史、宮本大誠\n\n\nhttps://www.eventernote.com/events/
+ 488277
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-488278@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20261219T170000
+DTEND;TZID=Asia/Tokyo:20261219T190000
+SUMMARY:演劇集団 Z-Lion 2026年度公演 きっといい Koto ある ra
+ vel 12月19日 17:00
+LOCATION:新宿シアターサンモール
+URL:https://www.eventernote.com/events/488278
+DESCRIPTION:开演 J17:00（B16:00）\n终演 J19:00（B18:00）\n出演：
+ \n・松井健太、紡木吏佐、塚本凌生、小山百代、林鼓子
+ 、永山たかし、皆口裕子、木村優良、真辺幸星、葉山
+ 昴、金児憲史、宮本大誠\n\n\nhttps://www.eventernote.com/events/
+ 488278
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-488279@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20261220T120000
+DTEND;TZID=Asia/Tokyo:20261220T140000
+SUMMARY:演劇集団 Z-Lion 2026年度公演 きっといい Koto ある ra
+ vel 12月20日 12:00
+LOCATION:新宿シアターサンモール
+URL:https://www.eventernote.com/events/488279
+DESCRIPTION:开演 J12:00（B11:00）\n终演 J14:00（B13:00）\n出演：
+ \n・松井健太、紡木吏佐、塚本凌生、小山百代、林鼓子
+ 、永山たかし、皆口裕子、木村優良、真辺幸星、葉山
+ 昴、金児憲史、宮本大誠\n\n\nhttps://www.eventernote.com/events/
+ 488279
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-488280@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20261220T160000
+DTEND;TZID=Asia/Tokyo:20261220T180000
+SUMMARY:演劇集団 Z-Lion 2026年度公演 きっといい Koto ある ra
+ vel 12月20日 16:00
+LOCATION:新宿シアターサンモール
+URL:https://www.eventernote.com/events/488280
+DESCRIPTION:开演 J16:00（B15:00）\n终演 J18:00（B17:00）\n出演：
+ \n・松井健太、紡木吏佐、塚本凌生、小山百代、林鼓子
+ 、永山たかし、皆口裕子、木村優良、真辺幸星、葉山
+ 昴、金児憲史、宮本大誠\n\n\nhttps://www.eventernote.com/events/
+ 488280
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500276@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:「林鼓子のメゾン・ド・ココ」1周年記念イベント
+LOCATION:P.O.Minamiaoyama Hall
+URL:https://www.eventernote.com/events/500276
+DESCRIPTION:时间未定（eventernote 未收录）\n出演：\n・林鼓
+ 子\n\n\nhttps://www.eventernote.com/events/500276
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-497580@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Hong_Kong:20270103T190000
+DTEND;TZID=Asia/Hong_Kong:20270103T210000
+SUMMARY:MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 香港還想
+ 編 -
+LOCATION:AsiaWorld-Expo Hall 5
+URL:https://www.eventernote.com/events/497580
+DESCRIPTION:开演 当地19:00\n终演 当地21:00\n出演：\n・MyGO!!!!!
+ （羊宮妃那、立石凛、青木陽菜、小日向美香、林鼓子
+ ）\n\n\nhttps://www.eventernote.com/events/497580
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-486245@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270108T130000
 DTEND;TZID=Asia/Tokyo:20270108T180000
 SUMMARY:ブシロード新春大発表会2027
@@ -216,14 +420,180 @@ DESCRIPTION:开场 J11:30（B10:30）\n开演 J13:00（B12:00）\n终演 J1
  、森嶋秀太、小山百代、岩田陽葵、小泉萌香、相羽あ
  いな、大友海、佐藤たかみち、真野拓実、川上将大、
  西葉瑞希、安藤千伽奈、河内美里、新田恵海\n\n\nhttps://
- bushiroad.com/2027newyear_launch_event\n\nhttps://bushiroad.com/2027newyea
- r_launch_event_part1\n\nhttps://www.eventernote.com/events/486245
+ www.eventernote.com/events/486245
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500593@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270109T180000
+DTEND;TZID=Asia/Tokyo:20270109T200000
+SUMMARY:SCORE!! 〜Musical friends〜 2027 1月9日
+LOCATION:日本青年館ホール
+URL:https://www.eventernote.com/events/500593
+DESCRIPTION:开演 J18:00（B17:00）\n终演 J20:00（B19:00）\n出演：
+ \n・中川晃教、ゆめっち(3時のヒロイン)、渡辺えり、白
+ 又敦、DION、LEI’OH、鈴木亜里紗、竹内夢、林鼓子\n\n\nht
+ tps://www.eventernote.com/events/500593
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500595@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270110T130000
+DTEND;TZID=Asia/Tokyo:20270110T150000
+SUMMARY:SCORE!! 〜Musical friends〜 2027 1月10日 13:00
+LOCATION:日本青年館ホール
+URL:https://www.eventernote.com/events/500595
+DESCRIPTION:开演 J13:00（B12:00）\n终演 J15:00（B14:00）\n出演：
+ \n・中川晃教、井澤勇貴、緒方恵美、七海うらら、白又
+ 敦、DION、LEI’OH、鈴木亜里紗、竹内夢、林鼓子\n\n\nhttps
+ ://www.eventernote.com/events/500595
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500594@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270110T180000
+DTEND;TZID=Asia/Tokyo:20270110T200000
+SUMMARY:SCORE!! 〜Musical friends〜 2027 1月10日 18:00
+LOCATION:日本青年館ホール
+URL:https://www.eventernote.com/events/500594
+DESCRIPTION:开演 J18:00（B17:00）\n终演 J20:00（B19:00）\n出演：
+ \n・中川晃教、井澤勇貴、緒方恵美、七海うらら、白又
+ 敦、DION、LEI’OH、鈴木亜里紗、竹内夢、林鼓子\n\n\nhttps
+ ://www.eventernote.com/events/500594
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500596@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270111T130000
+DTEND;TZID=Asia/Tokyo:20270111T150000
+SUMMARY:SCORE!! 〜Musical friends〜 2027 1月11日 13:00
+LOCATION:日本青年館ホール
+URL:https://www.eventernote.com/events/500596
+DESCRIPTION:开演 J13:00（B12:00）\n终演 J15:00（B14:00）\n出演：
+ \n・中川晃教、梅田彩佳、こがけん、はいだしょうこ、
+ 白又敦、DION、LEI’OH、鈴木亜里紗、竹内夢、林鼓子\n\n\
+ nhttps://www.eventernote.com/events/500596
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500597@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270111T180000
+DTEND;TZID=Asia/Tokyo:20270111T200000
+SUMMARY:SCORE!! 〜Musical friends〜 2027 1月11日 18:00
+LOCATION:日本青年館ホール
+URL:https://www.eventernote.com/events/500597
+DESCRIPTION:开演 J18:00（B17:00）\n终演 J20:00（B19:00）\n出演：
+ \n・中川晃教、梅田彩佳、こがけん、はいだしょうこ、
+ 白又敦、DION、LEI’OH、鈴木亜里紗、竹内夢、林鼓子\n\n\
+ nhttps://www.eventernote.com/events/500597
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500598@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270113T130000
+DTEND;TZID=Asia/Tokyo:20270113T150000
+SUMMARY:SCORE!! 〜Musical friends〜 2027 1月13日 13:00
+LOCATION:日本青年館ホール
+URL:https://www.eventernote.com/events/500598
+DESCRIPTION:开演 J13:00（B12:00）\n终演 J15:00（B14:00）\n出演：
+ \n・中川晃教、伊礼彼方、清水美依紗、鈴木福、磯野大
+ 、DION、LEI’OH、佐藤日向、鈴木亜里紗、林鼓子\n\n\nhttps
+ ://www.eventernote.com/events/500598
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500599@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270113T180000
+DTEND;TZID=Asia/Tokyo:20270113T200000
+SUMMARY:SCORE!! 〜Musical friends〜 2027 1月13日 18:00
+LOCATION:日本青年館ホール
+URL:https://www.eventernote.com/events/500599
+DESCRIPTION:开演 J18:00（B17:00）\n终演 J20:00（B19:00）\n出演：
+ \n・中川晃教、伊礼彼方、清水美依紗、鈴木福、磯野大
+ 、DION、LEI’OH、佐藤日向、鈴木亜里紗、林鼓子\n\n\nhttps
+ ://www.eventernote.com/events/500599
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500600@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270114T130000
+DTEND;TZID=Asia/Tokyo:20270114T150000
+SUMMARY:SCORE!! 〜Musical friends〜 2027 1月14日
+LOCATION:日本青年館ホール
+URL:https://www.eventernote.com/events/500600
+DESCRIPTION:开演 J13:00（B12:00）\n终演 J15:00（B14:00）\n出演：
+ \n・中川晃教、綾凰華、おばたのお兄さん、徳永ゆうき
+ 、ゆあさみちる、磯野大、DION、LEI’OH、佐藤日向、鈴
+ 木亜里紗、林鼓子\n\n\nhttps://www.eventernote.com/events/500600
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500602@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270115T130000
+DTEND;TZID=Asia/Tokyo:20270115T150000
+SUMMARY:SCORE!! 〜Musical friends〜 2027 1月15日 13:00
+LOCATION:日本青年館ホール
+URL:https://www.eventernote.com/events/500602
+DESCRIPTION:开演 J13:00（B12:00）\n终演 J15:00（B14:00）\n出演：
+ \n・中川晃教、拓也(風輪)、翔司(風輪)、森公美子、山
+ 田健登、磯野大、DION、LEI’OH、佐藤日向、鈴木亜里紗
+ 、林鼓子\n\n\nhttps://www.eventernote.com/events/500602
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500603@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270115T180000
+DTEND;TZID=Asia/Tokyo:20270115T200000
+SUMMARY:SCORE!! 〜Musical friends〜 2027 1月15日 18:00
+LOCATION:日本青年館ホール
+URL:https://www.eventernote.com/events/500603
+DESCRIPTION:开演 J18:00（B17:00）\n终演 J20:00（B19:00）\n出演：
+ \n・中川晃教、拓也(風輪)、翔司(風輪)、森公美子、山
+ 田健登、磯野大、DION、LEI’OH、佐藤日向、鈴木亜里紗
+ 、林鼓子\n\n\nhttps://www.eventernote.com/events/500603
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-497705@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:KIMCHIKURA × ANISAMA SEOUL 2027 DAY2
+LOCATION:BLUE SQUARE Woori WON Banking Hall
+URL:https://www.eventernote.com/events/497705
+DESCRIPTION:时间未定（eventernote 未收录）\n出演：\n・RAISE A 
+ SUILEN（Raychell、小原莉子、夏芽、倉知玲鳳、紡木吏佐）
+ \n・CHiCO with HoneyWorks、デイヴ・ロジャース、DJ和、JO☆ST
+ ARS、花譜、鈴木このみ、茅原実里、岬なこ、アイドル
+ マスターシャイニーカラーズ、SHHis、紫月杏朱彩、山根
+ 綺\n\n\nhttps://www.eventernote.com/events/497705
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-496993@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270124T140000
 DTEND;TZID=Asia/Tokyo:20270124T153000
 SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
@@ -232,14 +602,14 @@ LOCATION:浜離宮朝日ホール 小ホール
 URL:https://www.eventernote.com/events/496993
 DESCRIPTION:开场 J13:15（B12:15）\n开演 J14:00（B13:00）\n终演 J1
  5:30（B14:30）\n出演：\n・薄井友里、川村玲奈、伊藤舞音
- 、松田彩音、天音ゆかり\n\n\nhttps://sp.ch.nicovideo.jp/voicegar
- age/blomaga/ar2238403\n\nhttps://www.eventernote.com/events/496993
+ 、松田彩音、天音ゆかり\n\n\nhttps://www.eventernote.com/events/
+ 496993
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-496994@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270124T173000
 DTEND;TZID=Asia/Tokyo:20270124T190000
 SUMMARY:薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれ
@@ -248,14 +618,14 @@ LOCATION:浜離宮朝日ホール 小ホール
 URL:https://www.eventernote.com/events/496994
 DESCRIPTION:开场 J16:45（B15:45）\n开演 J17:30（B16:30）\n终演 J1
  9:00（B18:00）\n出演：\n・薄井友里、川村玲奈、伊藤舞音
- 、松田彩音、天音ゆかり\n\n\nhttps://sp.ch.nicovideo.jp/voicegar
- age/blomaga/ar2238403\n\nhttps://www.eventernote.com/events/496994
+ 、松田彩音、天音ゆかり\n\n\nhttps://www.eventernote.com/events/
+ 496994
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-499362@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月3
@@ -264,14 +634,14 @@ LOCATION:武蔵野芸能劇場 小劇場
 URL:https://www.eventernote.com/events/499362
 DESCRIPTION:时间未定（eventernote 未收录）\n出演：\n・堀金
  蒼平、村井雄治、柳澤美月、山崎直宣、川村玲奈、波
- 間まさし、清水大登、花まどか\n\n\nhttps://www.verstrum.com/\
- n\nhttps://www.eventernote.com/events/499362
+ 間まさし、清水大登、花まどか\n\n\nhttps://www.eventernote.co
+ m/events/499362
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-499363@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月3
@@ -279,14 +649,42 @@ SUMMARY:朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月3
 URL:https://www.eventernote.com/events/499363
 DESCRIPTION:时间未定（eventernote 未收录）\n出演：\n・堀金
  蒼平、村井雄治、山崎直宣、川村玲奈、波間まさし、
- 清水大登、花まどか\n\n\nhttps://www.verstrum.com/\n\nhttps://www.
- eventernote.com/events/499363
+ 清水大登、花まどか\n\n\nhttps://www.eventernote.com/events/499363
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-492592@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:「林鼓子FanClub Event 2027～鼓星の会vol.1～」
+LOCATION:!_東京都内某所
+URL:https://www.eventernote.com/events/492592
+DESCRIPTION:时间未定（eventernote 未收录）\n出演：\n・林鼓
+ 子\n\n\nhttps://www.eventernote.com/events/492592
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-490971@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270130T180000
+DTEND;TZID=Asia/Tokyo:20270130T200000
+SUMMARY:Roselia 10th Anniversary LIVE TOUR「Rosen-Dekade: Zueignung」東
+ 京公演
+LOCATION:TOYOTA ARENA TOKYO(トヨタアリーナ東京)
+URL:https://www.eventernote.com/events/490971
+DESCRIPTION:开场 J16:30（B15:30）\n开演 J18:00（B17:00）\n终演 J2
+ 0:00（B19:00）\n出演：\n・Roselia（相羽あいな、工藤晴香
+ 、中島由貴、櫻川めぐ、志崎樺音）\n\n\nhttps://www.eventern
+ ote.com/events/490971
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-499365@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月3
@@ -294,14 +692,13 @@ SUMMARY:朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月3
 URL:https://www.eventernote.com/events/499365
 DESCRIPTION:时间未定（eventernote 未收录）\n出演：\n・堀金
  蒼平、村井雄治、山崎直宣、川村玲奈、波間まさし、
- 清水大登、花まどか\n\n\nhttps://www.verstrum.com/\n\nhttps://www.
- eventernote.com/events/499365
+ 清水大登、花まどか\n\n\nhttps://www.eventernote.com/events/499365
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-499364@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月3
@@ -309,28 +706,117 @@ SUMMARY:朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月3
 URL:https://www.eventernote.com/events/499364
 DESCRIPTION:时间未定（eventernote 未收录）\n出演：\n・堀金
  蒼平、村井雄治、山崎直宣、川村玲奈、波間まさし、
- 清水大登、花まどか\n\n\nhttps://www.verstrum.com/\n\nhttps://www.
- eventernote.com/events/499364
+ 清水大登、花まどか\n\n\nhttps://www.eventernote.com/events/499364
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-499987@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:渡瀬結月 Birthday Event 2027 こっち向いて、わたせ
 LOCATION:ハーモニースクエア3F ハーモニーホール
 URL:https://www.eventernote.com/events/499987
 DESCRIPTION:时间未定（eventernote 未收录）\n出演：\n・渡瀬
- 結月\n\n\nhttps://x.com/official_hibiki/status/2120487538087653887\n\nht
- tps://www.eventernote.com/events/499987
+ 結月\n\n\nhttps://www.eventernote.com/events/499987
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500460@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270213T170000
+DTEND;TZID=Asia/Tokyo:20270213T210000
+SUMMARY:LoveLive! Series 15th Annivesary ラブライブ！フェス Encore
+  in TOKYO DOME Day.1
+LOCATION:東京ドーム
+URL:https://www.eventernote.com/events/500460
+DESCRIPTION:开场 J15:00（B14:00）\n开演 J17:00（B16:00）\n终演 J2
+ 1:00（B20:00）\n出演：\n・蓮ノ空女学院スクールアイドル
+ クラブ（楡井希実、野中ここな、菅叶和、櫻井陽菜、
+ 葉山風花、来栖りん、三宅美羽、進藤あまね、星宮じ
+ ゅりあ、朝陽花菜、湯浅かなえ）\n・μ’s、新田恵海、
+ 内田彩、飯田里穂、Pile、Aqours、伊波杏樹、逢田梨香子
+ 、斉藤朱夏、小林愛香、高槻かなこ、虹ヶ咲学園スク
+ ールアイドル同好会、大西亜玖璃、相良茉優、久保田
+ 未夢、村上奈津実、鬼頭明里、林鼓子、指出毬亜、田
+ 中ちえ美、小泉萌香、内田秀、法元明菜、Liella!、伊達
+ さゆり、Liyuu(黎獄)、ペイトン尚未、鈴原希実、薮島朱
+ 音、大熊和奏、絵森彩、結那、坂倉花、いきづらい部
+ ！、綾咲穂音、遠藤璃菜、宮野芹、藤野こころ、坂野
+ 愛羽、瀬古梨愛、奥村優季、天沢朱音、小戸森穂花、
+ 涼ノ瀬葵音、スクールアイドルミュージカル、堀内ま
+ り菜、浅井七海、安本彩花、杏ジュリア、仲村悠菜、
+ 清水理子、里菜、由良朱合\n\n\nhttps://www.eventernote.com/even
+ ts/500460
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500459@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270214T170000
+DTEND;TZID=Asia/Tokyo:20270214T210000
+SUMMARY:LoveLive! Series 15th Annivesary ラブライブ！フェス Encore
+  in TOKYO DOME Day.2
+LOCATION:東京ドーム
+URL:https://www.eventernote.com/events/500459
+DESCRIPTION:开场 J15:00（B14:00）\n开演 J17:00（B16:00）\n终演 J2
+ 1:00（B20:00）\n出演：\n・蓮ノ空女学院スクールアイドル
+ クラブ（楡井希実、野中ここな、菅叶和、花宮初奈、
+ 佐々木琴子、月音こな、櫻井陽菜、葉山風花、来栖り
+ ん、三宅美羽、進藤あまね、星宮じゅりあ、朝陽花菜
+ 、湯浅かなえ）\n・μ’s、新田恵海、内田彩、飯田里穂
+ 、Pile、Aqours、伊波杏樹、逢田梨香子、斉藤朱夏、小林
+ 愛香、高槻かなこ、虹ヶ咲学園スクールアイドル同好
+ 会、大西亜玖璃、相良茉優、久保田未夢、村上奈津実
+ 、鬼頭明里、林鼓子、指出毬亜、田中ちえ美、小泉萌
+ 香、内田秀、法元明菜、矢野妃菜喜、Liella!、伊達さゆ
+ り、Liyuu(黎獄)、岬なこ、ペイトン尚未、青山なぎさ、
+ 鈴原希実、薮島朱音、大熊和奏、絵森彩、結那、坂倉
+ 花、いきづらい部！、綾咲穂音、遠藤璃菜、宮野芹、
+ 藤野こころ、坂野愛羽、瀬古梨愛、奥村優季、天沢朱
+ 音、小戸森穂花、涼ノ瀬葵音、スクールアイドルミュ
+ ージカル、堀内まり菜、浅井七海、安本彩花、杏ジュ
+ リア、仲村悠菜、清水理子、里菜、由良朱合\n\n\nhttps://
+ www.eventernote.com/events/500459
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500636@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270222T130000
+DTEND;TZID=Asia/Tokyo:20270222T143000
+SUMMARY:三越劇場100周年記念朗読劇『百年の手紙』2/22 13:00
+LOCATION:三越劇場
+URL:https://www.eventernote.com/events/500636
+DESCRIPTION:开场 J12:15（B11:15）\n开演 J13:00（B12:00）\n终演 J1
+ 4:30（B13:30）\n出演：\n・林鼓子、星守紗凪、相良茉優、
+ 小林愛香、三波春香、井上和彦\n\n\nhttps://www.eventernote.co
+ m/events/500636
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500637@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270222T170000
+DTEND;TZID=Asia/Tokyo:20270222T183000
+SUMMARY:三越劇場100周年記念朗読劇『百年の手紙』2/22 17:00
+LOCATION:三越劇場
+URL:https://www.eventernote.com/events/500637
+DESCRIPTION:开场 J16:15（B15:15）\n开演 J17:00（B16:00）\n终演 J1
+ 8:30（B17:30）\n出演：\n・林鼓子、星守紗凪、相良茉優、
+ 小林愛香、三波春香、井上和彦\n\n\nhttps://www.eventernote.co
+ m/events/500637
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-500467@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270223T120000
 DTEND;TZID=Asia/Tokyo:20270223T130000
 SUMMARY:学園アイドルマスター『氷渡香名江 1st Single』リ
@@ -339,15 +825,28 @@ LOCATION:アニメイト池袋本店 9F animate hall BLACK
 URL:https://www.eventernote.com/events/500467
 DESCRIPTION:开场 J11:00（B10:00）\n开演 J12:00（B11:00）\n终演 J1
  3:00（B12:00）\n出演：\n・学園アイドルマスター（伊藤舞
- 音、安倍彩野夏）\n\n\nhttps://www.animate-onlineshop.jp/sphone/con
- tents/fair_event/detail.php?id=116833\n\nhttps://www.eventernote.com/event
- s/500467
+ 音、安倍彩野夏）\n\n\nhttps://www.eventernote.com/events/500467
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500638@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270223T120000
+DTEND;TZID=Asia/Tokyo:20270223T133000
+SUMMARY:三越劇場100周年記念朗読劇『百年の手紙』2/23 12:00
+LOCATION:三越劇場
+URL:https://www.eventernote.com/events/500638
+DESCRIPTION:开场 J11:15（B10:15）\n开演 J12:00（B11:00）\n终演 J1
+ 3:30（B12:30）\n出演：\n・林鼓子、星守紗凪、相良茉優、
+ 礒部花凜、野中ここな、速水奨\n\n\nhttps://www.eventernote.co
+ m/events/500638
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-500468@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270223T150000
 DTEND;TZID=Asia/Tokyo:20270223T160000
 SUMMARY:学園アイドルマスター『氷渡香名江 1st Single』リ
@@ -356,15 +855,28 @@ LOCATION:アニメイト池袋本店 9F animate hall BLACK
 URL:https://www.eventernote.com/events/500468
 DESCRIPTION:开场 J14:00（B13:00）\n开演 J15:00（B14:00）\n终演 J1
  6:00（B15:00）\n出演：\n・学園アイドルマスター（伊藤舞
- 音、安倍彩野夏）\n\n\nhttps://www.animate-onlineshop.jp/sphone/con
- tents/fair_event/detail.php?id=116833\n\nhttps://www.eventernote.com/event
- s/500468
+ 音、安倍彩野夏）\n\n\nhttps://www.eventernote.com/events/500468
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500639@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270223T163000
+DTEND;TZID=Asia/Tokyo:20270223T180000
+SUMMARY:三越劇場100周年記念朗読劇『百年の手紙』2/23 16:30
+LOCATION:三越劇場
+URL:https://www.eventernote.com/events/500639
+DESCRIPTION:开场 J15:45（B14:45）\n开演 J16:30（B15:30）\n终演 J1
+ 8:00（B17:00）\n出演：\n・林鼓子、星守紗凪、相良茉優、
+ 礒部花凜、野中ここな、速水奨\n\n\nhttps://www.eventernote.co
+ m/events/500639
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-500230@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270227T180000
 DTEND;TZID=Asia/Tokyo:20270227T190000
 SUMMARY:Ave Mujica 4th single リリース記念ライブ「Anima Incorrupt
@@ -373,15 +885,30 @@ LOCATION:duo MUSIC EXCHANGE
 URL:https://www.eventernote.com/events/500230
 DESCRIPTION:开场 J17:00（B16:00）\n开演 J18:00（B17:00）\n终演 J1
  9:00（B18:00）\n出演：\n・Ave Mujica（佐々木李子、渡瀬結
- 月、岡田夢以、米澤茜、高尾奏音）\n\n\nhttps://bang-dream.c
- om/events/avemujica_anima-incorrupta/\n\nhttps://www.eventernote.com/event
- s/500230
+ 月、岡田夢以、米澤茜、高尾奏音）\n\n\nhttps://www.eventern
+ ote.com/events/500230
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-490972@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270228T170000
+DTEND;TZID=Asia/Tokyo:20270228T190000
+SUMMARY:Roselia 10th Anniversary LIVE TOUR「Rosen-Dekade: Zueignung」愛
+ 知公演
+LOCATION:愛知県芸術劇場 大ホール
+URL:https://www.eventernote.com/events/490972
+DESCRIPTION:开场 J16:00（B15:00）\n开演 J17:00（B16:00）\n终演 J1
+ 9:00（B18:00）\n出演：\n・Roselia（相羽あいな、工藤晴香
+ 、中島由貴、櫻川めぐ、志崎樺音）\n\n\nhttps://www.eventern
+ ote.com/events/490972
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-500469@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270306T120000
 DTEND;TZID=Asia/Tokyo:20270306T130000
 SUMMARY:学園アイドルマスター『氷渡香名江 1st Single』リ
@@ -390,15 +917,13 @@ LOCATION:アニメイト秋葉原1号館 7F
 URL:https://www.eventernote.com/events/500469
 DESCRIPTION:开场 J11:00（B10:00）\n开演 J12:00（B11:00）\n终演 J1
  3:00（B12:00）\n出演：\n・学園アイドルマスター（春咲暖
- 、安倍彩野夏）\n\n\nhttps://www.animate-onlineshop.jp/sphone/conten
- ts/fair_event/detail.php?id=116833\n\nhttps://www.eventernote.com/events/5
- 00469
+ 、安倍彩野夏）\n\n\nhttps://www.eventernote.com/events/500469
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-500470@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270306T150000
 DTEND;TZID=Asia/Tokyo:20270306T160000
 SUMMARY:学園アイドルマスター『氷渡香名江 1st Single』リ
@@ -407,15 +932,13 @@ LOCATION:アニメイト秋葉原1号館 7F
 URL:https://www.eventernote.com/events/500470
 DESCRIPTION:开场 J14:00（B13:00）\n开演 J15:00（B14:00）\n终演 J1
  6:00（B15:00）\n出演：\n・学園アイドルマスター（春咲暖
- 、安倍彩野夏）\n\n\nhttps://www.animate-onlineshop.jp/sphone/conten
- ts/fair_event/detail.php?id=116833\n\nhttps://www.eventernote.com/events/5
- 00470
+ 、安倍彩野夏）\n\n\nhttps://www.eventernote.com/events/500470
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-500471@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270313T120000
 DTEND;TZID=Asia/Tokyo:20270313T130000
 SUMMARY:学園アイドルマスター『氷渡香名江 1st Single』リ
@@ -424,15 +947,13 @@ LOCATION:第3太閤ビル
 URL:https://www.eventernote.com/events/500471
 DESCRIPTION:开场 J11:00（B10:00）\n开演 J12:00（B11:00）\n终演 J1
  3:00（B12:00）\n出演：\n・学園アイドルマスター（松田彩
- 音、安倍彩野夏）\n\n\nhttps://www.animate-onlineshop.jp/sphone/con
- tents/fair_event/detail.php?id=116833\n\nhttps://www.eventernote.com/event
- s/500471
+ 音、安倍彩野夏）\n\n\nhttps://www.eventernote.com/events/500471
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-500472@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270313T150000
 DTEND;TZID=Asia/Tokyo:20270313T160000
 SUMMARY:学園アイドルマスター『氷渡香名江 1st Single』リ
@@ -441,15 +962,32 @@ LOCATION:第3太閤ビル
 URL:https://www.eventernote.com/events/500472
 DESCRIPTION:开场 J14:00（B13:00）\n开演 J15:00（B14:00）\n终演 J1
  6:00（B15:00）\n出演：\n・学園アイドルマスター（松田彩
- 音、安倍彩野夏）\n\n\nhttps://www.animate-onlineshop.jp/sphone/con
- tents/fair_event/detail.php?id=116833\n\nhttps://www.eventernote.com/event
- s/500472
+ 音、安倍彩野夏）\n\n\nhttps://www.eventernote.com/events/500472
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-485113@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270313T150000
+DTEND;TZID=Asia/Tokyo:20270313T200000
+SUMMARY:ANISAMA FUKUOKA 2027 Day1
+LOCATION:みずほPayPayドーム福岡(福岡ドーム)
+URL:https://www.eventernote.com/events/485113
+DESCRIPTION:开场 J13:30（B12:30）\n开演 J15:00（B14:00）\n终演 J2
+ 0:00（B19:00）\n出演：\n・MyGO!!!!!（羊宮妃那、立石凛、青
+ 木陽菜、小日向美香、林鼓子）\n・i☆Ris、山北早紀、
+ 芹澤優、茜屋日海夏、若井友希、久保田未夢、オーイ
+ シマサヨシ(大石昌良)、JAM Project、影山ヒロノブ、遠藤
+ 正明、きただにひろし、奥井雅美、福山芳樹、鈴木こ
+ のみ、茅原実里、氷川きよし、May'n、ヤバイTシャツ屋
+ さん、ReoNa\n\n\nhttps://www.eventernote.com/events/485113
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-500473@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270314T120000
 DTEND;TZID=Asia/Tokyo:20270314T130000
 SUMMARY:学園アイドルマスター『氷渡香名江 1st Single』リ
@@ -458,15 +996,13 @@ LOCATION:アニメイト大阪日本橋 5Fイベントホール
 URL:https://www.eventernote.com/events/500473
 DESCRIPTION:开场 J11:00（B10:00）\n开演 J12:00（B11:00）\n终演 J1
  3:00（B12:00）\n出演：\n・学園アイドルマスター（川村玲
- 奈、安倍彩野夏）\n\n\nhttps://www.animate-onlineshop.jp/sphone/con
- tents/fair_event/detail.php?id=116833\n\nhttps://www.eventernote.com/event
- s/500473
+ 奈、安倍彩野夏）\n\n\nhttps://www.eventernote.com/events/500473
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-485114@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270314T150000
 DTEND;TZID=Asia/Tokyo:20270314T200000
 SUMMARY:ANISAMA FUKUOKA 2027 Day2
@@ -479,14 +1015,13 @@ DESCRIPTION:开场 J13:30（B12:30）\n开演 J15:00（B14:00）\n终演 J2
  菜）\n・プリキュアシンガーズ（石井あみ(歌手)、熊田
  茜音、増井優花、Machico、吉武千颯）\n・上坂すみれ、
  奥井雅美、小倉唯、きただにひろし、BLUE ENCOUNT、FLOW\n\n
- \nhttps://x.com/anisama/status/2076256868998221905\n\nhttps://anisama.tv/2
- 027/fukuoka/\n\nhttps://www.eventernote.com/events/485114
+ \nhttps://www.eventernote.com/events/485114
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-500474@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270314T150000
 DTEND;TZID=Asia/Tokyo:20270314T160000
 SUMMARY:学園アイドルマスター『氷渡香名江 1st Single』リ
@@ -495,15 +1030,59 @@ LOCATION:アニメイト大阪日本橋 5Fイベントホール
 URL:https://www.eventernote.com/events/500474
 DESCRIPTION:开场 J14:00（B13:00）\n开演 J15:00（B14:00）\n终演 J1
  6:00（B15:00）\n出演：\n・学園アイドルマスター（川村玲
- 奈、安倍彩野夏）\n\n\nhttps://www.animate-onlineshop.jp/sphone/con
- tents/fair_event/detail.php?id=116833\n\nhttps://www.eventernote.com/event
- s/500474
+ 奈、安倍彩野夏）\n\n\nhttps://www.eventernote.com/events/500474
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-490973@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270314T170000
+DTEND;TZID=Asia/Tokyo:20270314T190000
+SUMMARY:Roselia 10th Anniversary LIVE TOUR「Rosen-Dekade: Zueignung」宮
+ 城公演
+LOCATION:仙台サンプラザホール
+URL:https://www.eventernote.com/events/490973
+DESCRIPTION:开场 J16:00（B15:00）\n开演 J17:00（B16:00）\n终演 J1
+ 9:00（B18:00）\n出演：\n・Roselia（相羽あいな、工藤晴香
+ 、中島由貴、櫻川めぐ、志崎樺音）\n\n\nhttps://www.eventern
+ ote.com/events/490973
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-496257@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270404T180000
+DTEND;TZID=Asia/Tokyo:20270404T200000
+SUMMARY:RAISE A SUILEN LIVE TOUR 2027 宮城公演
+LOCATION:仙台PIT
+URL:https://www.eventernote.com/events/496257
+DESCRIPTION:开场 J17:00（B16:00）\n开演 J18:00（B17:00）\n终演 J2
+ 0:00（B19:00）\n出演：\n・RAISE A SUILEN（Raychell、小原莉子
+ 、夏芽、倉知玲鳳、紡木吏佐）\n\n\nhttps://www.eventernote.co
+ m/events/496257
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-496258@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270410T170000
+DTEND;TZID=Asia/Tokyo:20270410T190000
+SUMMARY:RAISE A SUILEN LIVE TOUR 2027 北海道公演
+LOCATION:Zepp Sapporo
+URL:https://www.eventernote.com/events/496258
+DESCRIPTION:开场 J16:00（B15:00）\n开演 J17:00（B16:00）\n终演 J1
+ 9:00（B18:00）\n出演：\n・RAISE A SUILEN（Raychell、小原莉子
+ 、夏芽、倉知玲鳳、紡木吏佐）\n\n\nhttps://www.eventernote.co
+ m/events/496258
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-495376@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270411T124500
 DTEND;TZID=Asia/Tokyo:20270411T141500
 SUMMARY:SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼
@@ -511,14 +1090,14 @@ SUMMARY:SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼
 LOCATION:静岡市東部勤労者福祉センター(清水テルサ)
 URL:https://www.eventernote.com/events/495376
 DESCRIPTION:开场 J12:00（B11:00）\n开演 J12:45（B11:45）\n终演 J1
- 4:15（B13:15）\n出演：\n・伊藤舞音、川村玲奈\n\n\nhttps://2
- ndl.tstar.jp\n\nhttps://www.eventernote.com/events/495376
+ 4:15（B13:15）\n出演：\n・伊藤舞音、川村玲奈\n\n\nhttps://w
+ ww.eventernote.com/events/495376
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-495377@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270411T161500
 DTEND;TZID=Asia/Tokyo:20270411T174500
 SUMMARY:SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜
@@ -526,14 +1105,105 @@ SUMMARY:SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜
 LOCATION:静岡市東部勤労者福祉センター(清水テルサ)
 URL:https://www.eventernote.com/events/495377
 DESCRIPTION:开场 J15:30（B14:30）\n开演 J16:15（B15:15）\n终演 J1
- 7:45（B16:45）\n出演：\n・伊藤舞音、川村玲奈\n\n\nhttps://2
- ndl.tstar.jp\n\nhttps://www.eventernote.com/events/495377
+ 7:45（B16:45）\n出演：\n・伊藤舞音、川村玲奈\n\n\nhttps://w
+ ww.eventernote.com/events/495377
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-496259@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270416T190000
+DTEND;TZID=Asia/Tokyo:20270416T210000
+SUMMARY:RAISE A SUILEN LIVE TOUR 2027 東京公演
+LOCATION:Zepp Haneda (TOKYO)
+URL:https://www.eventernote.com/events/496259
+DESCRIPTION:开场 J18:00（B17:00）\n开演 J19:00（B18:00）\n终演 J2
+ 1:00（B20:00）\n出演：\n・RAISE A SUILEN（Raychell、小原莉子
+ 、夏芽、倉知玲鳳、紡木吏佐）\n\n\nhttps://www.eventernote.co
+ m/events/496259
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-496260@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270418T180000
+DTEND;TZID=Asia/Tokyo:20270418T200000
+SUMMARY:RAISE A SUILEN LIVE TOUR 2027 大阪公演
+LOCATION:Zepp Osaka Bayside
+URL:https://www.eventernote.com/events/496260
+DESCRIPTION:开场 J17:00（B16:00）\n开演 J18:00（B17:00）\n终演 J2
+ 0:00（B19:00）\n出演：\n・RAISE A SUILEN（Raychell、小原莉子
+ 、夏芽、倉知玲鳳、紡木吏佐）\n\n\nhttps://www.eventernote.co
+ m/events/496260
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-490974@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270425T170000
+DTEND;TZID=Asia/Tokyo:20270425T190000
+SUMMARY:Roselia 10th Anniversary LIVE TOUR「Rosen-Dekade: Zueignung」福
+ 岡公演
+LOCATION:福岡サンパレス ホテル&ホール
+URL:https://www.eventernote.com/events/490974
+DESCRIPTION:开场 J16:00（B15:00）\n开演 J17:00（B16:00）\n终演 J1
+ 9:00（B18:00）\n出演：\n・Roselia（相羽あいな、工藤晴香
+ 、中島由貴、櫻川めぐ、志崎樺音）\n\n\nhttps://www.eventern
+ ote.com/events/490974
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500453@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270429T180000
+DTEND;TZID=Asia/Tokyo:20270429T200000
+SUMMARY:MyGO!!!!! 10th LIVE「僕たちのいまを越えて」DAY1
+LOCATION:Kアリーナ横浜
+URL:https://www.eventernote.com/events/500453
+DESCRIPTION:开场 J16:30（B15:30）\n开演 J18:00（B17:00）\n终演 J2
+ 0:00（B19:00）\n出演：\n・MyGO!!!!!（羊宮妃那、立石凛、青
+ 木陽菜、小日向美香、林鼓子）\n\n\nhttps://www.eventernote.co
+ m/events/500453
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-500454@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270430T183000
+DTEND;TZID=Asia/Tokyo:20270430T203000
+SUMMARY:MyGO!!!!! 10th LIVE「僕たちのいまを越えて」DAY2
+LOCATION:Kアリーナ横浜
+URL:https://www.eventernote.com/events/500454
+DESCRIPTION:开场 J17:00（B16:00）\n开演 J18:30（B17:30）\n终演 J2
+ 0:30（B19:30）\n出演：\n・MyGO!!!!!（羊宮妃那、立石凛、青
+ 木陽菜、小日向美香、林鼓子）\n\n\nhttps://www.eventernote.co
+ m/events/500454
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eventernote-496262@eventernote-ics
+DTSTAMP:20261118T143035Z
+DTSTART;TZID=Asia/Tokyo:20270523T173000
+DTEND;TZID=Asia/Tokyo:20270523T193000
+SUMMARY:RAISE A SUILEN LIVE TOUR 2027 愛知公演
+LOCATION:COMTEC PORTBASE(コムテックポートベイス)
+URL:https://www.eventernote.com/events/496262
+DESCRIPTION:开场 J16:30（B15:30）\n开演 J17:30（B16:30）\n终演 J1
+ 9:30（B18:30）\n出演：\n・RAISE A SUILEN（Raychell、小原莉子
+ 、夏芽、倉知玲鳳、紡木吏佐）\n\n\nhttps://www.eventernote.co
+ m/events/496262
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-497876@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270529T183000
 DTEND;TZID=Asia/Tokyo:20270529T203000
 SUMMARY:Ave Mujica 8th LIVE「Discrimen Fati」DAY1
@@ -541,14 +1211,14 @@ LOCATION:Kアリーナ横浜
 URL:https://www.eventernote.com/events/497876
 DESCRIPTION:开场 J17:00（B16:00）\n开演 J18:30（B17:30）\n终演 J2
  0:30（B19:30）\n出演：\n・Ave Mujica（佐々木李子、渡瀬結
- 月、岡田夢以、米澤茜、高尾奏音）\n\n\nhttps://bang-dream.c
- om/events/avemujica-8th/\n\nhttps://www.eventernote.com/events/497876
+ 月、岡田夢以、米澤茜、高尾奏音）\n\n\nhttps://www.eventern
+ ote.com/events/497876
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-497877@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;TZID=Asia/Tokyo:20270530T173000
 DTEND;TZID=Asia/Tokyo:20270530T193000
 SUMMARY:Ave Mujica 8th LIVE「Discrimen Fati」DAY2
@@ -556,14 +1226,14 @@ LOCATION:Kアリーナ横浜
 URL:https://www.eventernote.com/events/497877
 DESCRIPTION:开场 J16:00（B15:00）\n开演 J17:30（B16:30）\n终演 J1
  9:30（B18:30）\n出演：\n・Ave Mujica（佐々木李子、渡瀬結
- 月、岡田夢以、米澤茜、高尾奏音）\n\n\nhttps://bang-dream.c
- om/events/avemujica-8th/\n\nhttps://www.eventernote.com/events/497877
+ 月、岡田夢以、米澤茜、高尾奏音）\n\n\nhttps://www.eventern
+ ote.com/events/497877
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-486242@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
 SUMMARY:ブシロード20周年記念ライブ DAY1
@@ -588,28 +1258,27 @@ DESCRIPTION:时间未定（eventernote 未收录）\n出演：\n・ミル
  苑、深川瑠華、久家心、佐當友莉亜）\n・UNFIXXX（笹森
  裕貴、福井巴也、大友海）\n・BREAKERZ（DAIGO、AKIHIDE(BREAKE
  RZ)、SHINPEI(BREAKERZ)）\n・MyGO!!!!!（羊宮妃那、立石凛、青
- 木陽菜、小日向美香、林鼓子）\n\n\nhttps://live.bushiroad-mus
- ic.com/bushiroad_20thlive/\n\nhttps://www.eventernote.com/events/486242
+ 木陽菜、小日向美香、林鼓子）\n\n\nhttps://www.eventernote.co
+ m/events/486242
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-499643@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
 SUMMARY:学園アイドルマスター The 3rd Period DAY1
 LOCATION:Kアリーナ横浜
 URL:https://www.eventernote.com/events/499643
 DESCRIPTION:时间未定（eventernote 未收录）\n出演：\n・学園
- アイドルマスター\n\n\nhttps://x.com/gkmas_official/status/21193828
- 64085295199\n\nhttps://www.eventernote.com/events/499643
+ アイドルマスター\n\n\nhttps://www.eventernote.com/events/499643
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-486243@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
 SUMMARY:ブシロード20周年記念ライブ DAY2
@@ -634,22 +1303,21 @@ DESCRIPTION:时间未定（eventernote 未收录）\n出演：\n・ミル
  苑、深川瑠華、久家心、佐當友莉亜）\n・UNFIXXX（笹森
  裕貴、福井巴也、大友海）\n・BREAKERZ（DAIGO、AKIHIDE(BREAKE
  RZ)、SHINPEI(BREAKERZ)）\n・MyGO!!!!!（羊宮妃那、立石凛、青
- 木陽菜、小日向美香、林鼓子）\n\n\nhttps://live.bushiroad-mus
- ic.com/bushiroad_20thlive/\n\nhttps://www.eventernote.com/events/486243
+ 木陽菜、小日向美香、林鼓子）\n\n\nhttps://www.eventernote.co
+ m/events/486243
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eventernote-499644@eventernote-ics
-DTSTAMP:20261118T141547Z
+DTSTAMP:20261118T143035Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
 SUMMARY:学園アイドルマスター The 3rd Period DAY2
 LOCATION:Kアリーナ横浜
 URL:https://www.eventernote.com/events/499644
 DESCRIPTION:时间未定（eventernote 未收录）\n出演：\n・学園
- アイドルマスター\n\n\nhttps://x.com/gkmas_official/status/21193828
- 64085295199\n\nhttps://www.eventernote.com/events/499644
+ アイドルマスター\n\n\nhttps://www.eventernote.com/events/499644
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

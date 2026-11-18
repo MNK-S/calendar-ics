@@ -7,12 +7,28 @@
     "address": "〒112-8575 東京都文京区後楽1丁目3-61 ミーツポート1F TOKYO DOME CITY HALL",
     "overseas": false
   },
+  "10193": {
+    "address": "京畿道高陽市一山西区キンテックス路217-60",
+    "overseas": true
+  },
+  "103": {
+    "address": "東京都",
+    "overseas": false
+  },
   "1032": {
     "address": "〒066-0012 北海道千歳市美々987-22 新千歳空港国内線ターミナルビル4F 新千歳空港シアター",
     "overseas": false
   },
+  "10411": {
+    "address": "〒144-0041 東京都大田区羽田空港1丁目1-4 Zepp Haneda",
+    "overseas": false
+  },
   "10549": {
     "address": "〒779-0111 徳島県板野郡板野町那東字キビガ谷45-22 あすたむらんど徳島",
+    "overseas": false
+  },
+  "10870": {
+    "address": "〒160-0013 東京都新宿区霞ヶ丘町4-1",
     "overseas": false
   },
   "11327": {
@@ -27,6 +43,14 @@
     "address": "〒102-0091 東京都千代田区北の丸公園2-1 科学技術館B2F",
     "overseas": false
   },
+  "13": {
+    "address": "〒064-0809 北海道札幌市中央区南9条西4丁目4",
+    "overseas": false
+  },
+  "1339": {
+    "address": "〒160-0022 東京都新宿区新宿1丁目19-10 サンモールクレストB1F",
+    "overseas": false
+  },
   "13671": {
     "address": "〒220-8507 神奈川県横浜市西区みなとみらい6-2-14 Kアリーナ横浜",
     "overseas": false
@@ -35,12 +59,28 @@
     "address": "〒170-0013 東京都豊島区東池袋1丁目20-7 アニメイト池袋本店 北館9F",
     "overseas": false
   },
+  "13925": {
+    "address": "AsiaWorld-Expo Hong Kong International Airport Lantau Hong Kong",
+    "overseas": true
+  },
   "1690": {
     "address": "〒169-0072 東京都新宿区大久保1丁目9-10 R'sアートコート",
     "overseas": false
   },
   "19165": {
     "address": "〒164-0012 東京都中野区本町1-32-2 ハーモニースクエア3F ハーモニーホール",
+    "overseas": false
+  },
+  "19197": {
+    "address": "〒135-0064 東京都江東区青海1-3-8 TOYOTA ARENA TOKYO",
+    "overseas": false
+  },
+  "19404": {
+    "address": "〒455-0017 愛知県名古屋市港区金川町3番5号 PORTBASE",
+    "overseas": false
+  },
+  "19850": {
+    "address": "〒107-0062 東京都港区南青山2-5-17 POLA青山ビルディングB1F P.O.南青山ホール",
     "overseas": false
   },
   "223": {
@@ -51,6 +91,10 @@
     "address": "〒556-0004 大阪府大阪市浪速区日本橋西1丁目1-3 アニメイトビル5F",
     "overseas": false
   },
+  "25899": {
+    "address": "04399 서울특별시 용산구 이태원로 294",
+    "overseas": true
+  },
   "26299": {
     "address": "〒135-0063 東京都江東区有明3丁目3番8号 東京ドリームパーク内 SGC HALL ARIAKE(SGCホール有明)",
     "overseas": false
@@ -59,8 +103,20 @@
     "address": "〒424-0823 静岡県静岡市清水区島崎町223 清水テルサ",
     "overseas": false
   },
+  "326": {
+    "address": "〒461-8525 愛知県名古屋市東区東桜1丁目13-2 愛知県芸術劇場",
+    "overseas": false
+  },
+  "3360": {
+    "address": "〒103-0022 東京都中央区日本橋室町1丁目4-1 日本橋三越本店本館6F 三越劇場",
+    "overseas": false
+  },
   "3889": {
     "address": "〒554-0031 大阪府大阪市此花区桜島1丁目1-61 Zepp Osaka Bayside",
+    "overseas": false
+  },
+  "3908": {
+    "address": "〒106-0032 東京都港区六本木3丁目16-33 青葉六本木ビルB1F 六本木クラップス",
     "overseas": false
   },
   "488": {
@@ -75,8 +131,24 @@
     "address": "〒104-0045 東京都中央区築地5丁目3-2 朝日新聞東京本社新館2F 浜離宮朝日ホール",
     "overseas": false
   },
+  "56": {
+    "address": "〒812-0021 福岡県福岡市博多区築港本町2-1 福岡サンパレス ホテル＆ホール",
+    "overseas": false
+  },
+  "5753": {
+    "address": "〒982-0007 宮城県仙台市太白区あすと長町2丁目2番 Sendai PIT",
+    "overseas": false
+  },
   "577": {
     "address": "〒453-0015 愛知県名古屋市中村区椿町21-2 第三太閤ビル",
+    "overseas": false
+  },
+  "6": {
+    "address": "〒112-0004 東京都文京区後楽1丁目3番61号",
+    "overseas": false
+  },
+  "67": {
+    "address": "〒983-0852 宮城県仙台市宮城野区榴岡5丁目11-1",
     "overseas": false
   },
   "9": {

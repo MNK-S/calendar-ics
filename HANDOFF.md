@@ -64,7 +64,7 @@ targets.json（订阅名单）
   → 会场页取地址 → 时区
   → 活动页取「関連リンク」→ 官方链接（有缓存）
   → 生成 feed.ics（覆盖）
-  → GitHub Actions 每天 00:00 UTC 提交
+  → GitHub Actions 每天 20:00 UTC（北京时间 04:00）提交
   → 用户订阅 jsDelivr / Pages 的 feed.ics
 ```
 
