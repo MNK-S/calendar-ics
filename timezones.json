@@ -1,6 +1,7 @@
 {
   "venues": {
-    "2652": "America/Los_Angeles"
+    "2652": "America/Los_Angeles",
+    "10193": "Asia/Seoul"
   },
   "cities": {
     "Los Angeles": "America/Los_Angeles",

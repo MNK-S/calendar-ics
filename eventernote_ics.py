@@ -311,6 +311,14 @@ def norm_name(value: str) -> str:
     return re.sub(r"\s+", "", value)
 
 
+# Umbrella entries (a whole work). When a smaller unit of the same work is also
+# listed for one event, only the unit is rendered — "有小团就不写大团".
+OVERALL_GROUPS: set[str] = {
+    norm_name("アイドルマスターシャイニーカラーズ"),
+    norm_name("アイドルマスターSideM"),
+}
+
+
 def load_targets() -> list[tuple[str, str]]:
     """targets.json is the editable watchlist; ACTORS is the fallback."""
     if TARGETS_PATH.exists():
@@ -377,6 +385,14 @@ def build_performer_lines(performers: list[str], groups: list[dict]) -> list[str
     present = set(originals)
     present_groups = [g for g in groups if g["key"] in present]
 
+    # 有小团就不写大团：总条目和小队同时出现时只保留小队。
+    suppressed: set[str] = set()
+    if len(present_groups) > 1:
+        units = [g for g in present_groups if g["key"] not in OVERALL_GROUPS]
+        if units:
+            suppressed = {g["key"] for g in present_groups if g["key"] in OVERALL_GROUPS}
+            present_groups = units
+
     member_keys: set[str] = set()
     for group in present_groups:
         for member in group["members"]:
@@ -396,7 +412,7 @@ def build_performer_lines(performers: list[str], groups: list[dict]) -> list[str
     individuals: list[str] = []
     for name in performers:
         key = norm_name(name)
-        if key in member_keys or key in emitted_groups:
+        if key in member_keys or key in emitted_groups or key in suppressed:
             continue
         if name not in individuals:
             individuals.append(name)
